@@ -19,16 +19,16 @@ Apakah pesan balasan ini juga memberikan alamat IP untuk server MIT tersebut?
 
 ## Jawaban :
 1.
-![image](../assets/image/modul-4/soal3/soal1.png)
-![image](../assets/image/modul-4/soal3/soal1-1.png)
+![image](../assets/image/soal3/soal1.png)
+![image](../assets/image/soal3/soal1-1.png)
 ---
 
 2.
-![image](../assets/image/modul-4/soal3/soal2.png)
+![image](../assets/image/soal3/soal2.png)
 Jenis atau type dari pesan tersebut adalah A. Pesan tersebut tidak mengandung jawaban atau answers.
 
 ---
 
 3.
-![image](../assets/image/modul-4/soal3/soal3.png)
+![image](../assets/image/soal3/soal3.png)
 Pesan balasan ini juga memberikan alamat IP untuk server MIT
