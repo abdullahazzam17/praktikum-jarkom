@@ -9,7 +9,7 @@ Sebelum server dijalankan :
 
 Setelah server dijalankan :
 ![image](../assets/image/outputserver.png)
-![image](../assets/image/html.png)
+![image](../assets/image/htmlweb.png)
 
 Kode :
 
