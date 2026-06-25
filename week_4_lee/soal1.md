@@ -22,25 +22,25 @@ Kelas : IF-04-04
 ## Jawaban
 
 1. 
-   ![image](../assets/image/modul-4/soal1.png)
-   ![image](../assets/image/modul-4/soal1-1.png)
+   ![image](../assets/image/soal1.png)
+   ![image](../assets/image/soal1-1.png)
    Pesan tersebut dikirimkan melalui UDP
 
 2.  
-   ![image](../assets/image/modul-4/soal2.png)
-   ![image](../assets/image/modul-4/soal2-1.png)
+   ![image](../assets/image/soal2.png)
+   ![image](../assets/image/soal2-1.png)
    Port tujuan pada pesan permintaan DNS adalah 53. Port sumber pada pesan balasannya adalah 53.
 
 3.  
-   ![image](../assets/image/modul-4/soal3.png)
-   ![image](../assets/image/modul-4/soal3-1.png)
+   ![image](../assets/image/soal3.png)
+   ![image](../assets/image/soal3-1.png)
 
 4.  
-   ![image](../assets/image/modul-4/soal4.png)
+   ![image](../assets/image/soal4.png)
    Jenis atau type dari pesan tersebut adalah A (Host Address). Pesan permintaan tersebut tidak mengandung jawaban atau answers.
    
 5.  
-   ![image](../assets/image/modul-4/soal5.png)
+   ![image](../assets/image/soal5.png)
    Terdapat 2 Jawaban
 
 7. jawabannya adalah tidak. Host Anda tidak perlu mengirimkan pesan permintaan DNS baru setiap kali ingin mengakses suatu gambar, karena gambar-gambar tersebut biasanya berada di server yang sama dengan halaman web utama, sehingga alamat IP yang diperlukan sudah diketahui dari permintaan DNS sebelumnya.
