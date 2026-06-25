@@ -1,8 +1,8 @@
 # LAPORAN PRAKTIKUM JARINGAN KOMPUTER  
 
 ## MODUL 4
-Nama  : Faiz Agit Zahiri
-NIM   : 103072400123
+Nama  : Abdullah Azzam
+NIM   : 103072400162
 Kelas : IF-04-04
 
 ----
